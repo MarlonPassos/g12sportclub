@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## G12 Sport Club
 
-## Getting Started
+Este projeto é uma **Lead Page** informativa para a **G12 Sport Club**, uma escola de futebol dedicada ao desenvolvimento de jovens atletas. O principal objetivo da página é divulgar informações sobre a escola e o projeto, apresentando nossos valores, metodologia de ensino e os benefícios de fazer parte da nossa equipe.
 
-First, run the development server:
+A página servirá como uma vitrine para destacar o trabalho da G12 Sport Club e atrair novos alunos interessados em aprimorar suas habilidades no futebol. Através dessa plataforma, os visitantes poderão conhecer mais sobre nossa estrutura, programas de treinamento e a filosofia que nos guia, além de informações essenciais sobre a inscrição e contato.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Objetivo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Informar e divulgar a escola de futebol G12 Sport Club.
+- Apresentar os valores e o diferencial do projeto.
+- Atração de novos alunos interessados em nosso programa.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Agradecemos por visitar nossa página e esperamos que você se junte a nós nessa jornada de crescimento e desenvolvimento no futebol!
